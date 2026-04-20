@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End Web`**
 
-Me chamo Diego Nicoleti, tenho 27 anos e sou natural de Bebedouro/SP. Sou formado em Sistemas de Informação e possuo experiência como Desenvolvedor Front-End Web, com foco no desenvolvimento de interfaces modernas, responsivas e centradas na experiência do usuário. Durante esse período, participei ativamente do desenvolvimento de um sistema ERP web, aplicando boas práticas de código e versionamento, além de colaborar com equipes multidisciplinares utilizando metodologias ágeis.
+Meu nome é Diego Nicoleti, tenho 27 anos e sou natural de Bebedouro/SP. Sou formado em Sistemas de Informação e possuo experiência como Desenvolvedor Front-End Web, com foco no desenvolvimento de interfaces modernas, responsivas e centradas na experiência do usuário. Nesse período, participei ativamente do desenvolvimento de um sistema ERP web, aplicando boas práticas de código e versionamento, além de colaborar com equipes multidisciplinares utilizando metodologias ágeis.
 
 ### 🤖 Linguagens e Tecnologias
 
