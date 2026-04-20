@@ -3,15 +3,7 @@
 **`Desenvolvedor Front-End Web`**
 
 Meu nome é Diego Nicoleti, tenho 27 anos e sou natural de Bebedouro/SP. Sou formado em Sistemas de Informação e possuo experiência como Desenvolvedor Front-End Web, com foco no desenvolvimento de interfaces modernas, responsivas e centradas na experiência do usuário. Nesse período, participei ativamente do desenvolvimento de um sistema ERP web, aplicando boas práticas de código e versionamento, além de colaborar com equipes multidisciplinares utilizando metodologias ágeis.
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=diegosilvanicoleti@gmail.com" />
-  </a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegosnicoleti/" />
-  </a>
-</p>
 ---
 ### 🤖 Linguagens e Tecnologias
 
